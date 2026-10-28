@@ -211,7 +211,7 @@ Under each game: the IPA's size, and "60 fps with 1.2.0" where the game runs at 
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><img src="docs/images/cult-of-the-lamb.jpg" width="256" alt="Cult of the Lamb"><br><sub><b><a href="dm/games/01002E7016C46000/README.md">Cult of the Lamb</a></b></sub></td>
-<td></td>
+<td align="center" valign="top" width="33%"><img src="docs/images/persona-4-golden.jpg" width="256" alt="Persona 4 Golden"><br><sub><b><a href="dm/games/010062B01525C000/README.md">Persona 4 Golden</a></b></sub></td>
 <td></td>
 </tr>
 </table>
